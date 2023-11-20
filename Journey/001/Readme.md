@@ -1,4 +1,4 @@
-![placeholder image](Journey/001/assets/OSI.png)
+![placeholder image](../001/assets/OSI.png)
 
 # Table of Contents 
 
