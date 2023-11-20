@@ -1,52 +1,21 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](Journey/008/assets/vpn.jpg)
 
-# New post title here
+# What is a VPN?
 
-## Introduction
+A VPN, or Virtual Private Network, is a service that encrypts your internet connection and protects your online privacy and security. It creates a secure tunnel between your device and a VPN server, making it difficult for anyone to snoop on your data or track your online activity.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+# VPN tunneling
 
-## Prerequisite
+VPN tunneling is the process of establishing a secure connection between a user's device and a VPN server. This connection is used to encrypt all of the user's data traffic, making it difficult for third parties to intercept and snoop on the data. In other words, VPN tunneling is the foundation of how VPNs work. Without VPN tunneling, VPNs would not be able to protect users' privacy or security.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+# How does VPN tunneling work?
 
-## Use Case
+1. The user establishes a connection to a VPN server. This can be done using a VPN client application or by manually configuring the user's device.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+2. The VPN server encrypts all of the user's data traffic. This data is then sent through the public internet to the VPN server.
 
-## Cloud Research
+3. The VPN server decrypts the data traffic and forwards it to the intended destination. This could be a website, a streaming service, or any other online resource.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+4. The response from the destination is sent back to the VPN server. The VPN server encrypts the response and sends it back to the user.
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+5. The user's device decrypts the response and displays it to the user.

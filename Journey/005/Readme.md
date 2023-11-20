@@ -1,52 +1,15 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image5](Journey/005/assets/OSI_TCP.png)
 
-# New post title here
+# TCP/IP
 
-## Introduction
+TCP/IP stands for Transmission Control Protocol/Internet Protocol. It is a suite of communication protocols that are used to interconnect network devices on the internet. TCP/IP is the foundation of the internet and enables devices to communicate with each other using a common language.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+The TCP/IP protocol suite is divided into four layers:
 
-## Prerequisite
+Application layer: This layer provides services to applications, such as file transfer, email, and web browsing.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Transport layer: This layer ensures that data is transmitted reliably between applications. The two main transport layer protocols are TCP and UDP. TCP provides reliable, connection-oriented data transmission, while UDP provides unreliable, connectionless data transmission.
 
-## Use Case
+Internet layer: This layer is responsible for routing data packets across the internet. The two main internet layer protocols are IP and ICMP. IP is responsible for addressing and routing data packets, while ICMP is responsible for error messages and network management.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+Link layer: This layer is responsible for transmitting data frames over a physical network, such as Ethernet or Wi-Fi. The two main link layer protocols are Ethernet and 802.11.
