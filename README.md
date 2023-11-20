@@ -20,9 +20,9 @@ At this time I am writing this I hold 9 certifications:
 
 And I have 1 year of experience as an associate consultant.
 
-- [LinkedIn](https://www.linkedin.com/in/athinat/)
+[LinkedIn](https://www.linkedin.com/in/athinat/)
 
-## Networking :globe_with_meridians:
+## [Networking :globe_with_meridians:](https://learntocloud.guide/docs/phase1/)
 
 - ☁️ 1 > [OSI & TCP/IP Model](Journey/001/Readme.md)
 - ☁️ 2 > [IP Addressing](Journey/002/Readme.md)
@@ -49,18 +49,18 @@ And I have 1 year of experience as an associate consultant.
 - ☁️ 19 > [](Journey/019/Readme.md)
 - ☁️ 20 > [](Journey/020/Readme.md)
 
-## Terraform
+## [Terraform](https://youtu.be/SPcwo0Gq9T8?si=f17jpr2Xi8dgQNBJ)
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- ☁️ 21 > [Understand infrastructure as code (IaC) concepts](Journey/021/Readme.md)
+- ☁️ 22 > [Understand the purpose of Terraform (vs other IaC)](Journey/022/Readme.md)
+- ☁️ 23 > [Understand Terraform basics](Journey/023/Readme.md)
+- ☁️ 24 > [Use Terraform outside of core workflow](Journey/024/Readme.md)
+- ☁️ 25 > [Interact with Terraform modules](Journey/025/Readme.md)
+- ☁️ 26 > [Use the core Terraform workflow](Journey/026/Readme.md)
+- ☁️ 27 > [Implement and maintain state](Journey/027/Readme.md)
+- ☁️ 28 > [Read, generate, and modify configuration](Journey/028/Readme.md)
+- ☁️ 29 > [Understand Terraform Cloud capabilities](Journey/029/Readme.md)
+- ☁️ 30 > [Terraform Beginner Bootcamp](Journey/030/Readme.md)
 
 ## Python
 
