@@ -1,52 +1,17 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](Journey/003/assets/mac_address.jpg)
 
-# New post title here
+# MAC Addresses
 
-## Introduction
+A Media Access Control (MAC) address, also known as a hardware address or physical address, is a unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+- MAC addresses are unique. Every NIC has a unique MAC address assigned to it by the manufacturer, ensuring that no two devices on a network have the same MAC address. This uniqueness is crucial for preventing network conflicts and ensuring proper communication between devices.
 
-## Prerequisite
+- MAC addresses are permanent. Unlike IP addresses, which can be dynamically assigned or changed, MAC addresses are permanently etched into the hardware of the NIC. This permanence provides a reliable and consistent way to identify devices on a network.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- MAC addresses are used for local network communication. MAC addresses are primarily used for addressing devices within a local network segment. They play a vital role in the data link layer of the OSI model, enabling devices to communicate with each other directly without the need for routing.
 
-## Use Case
+- MAC addresses can be used for security purposes. MAC address filtering, a security measure that restricts access to a network based on MAC addresses, can be used to enhance network security and prevent unauthorized access.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- MAC addresses can be spoofed. While MAC addresses are generally considered permanent and unique, it is possible for hackers to spoof or change their MAC addresses to disguise their identity and gain unauthorized access to a network.
 
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+![placeholder image2](Journey/003/assets/ipconfig.png)

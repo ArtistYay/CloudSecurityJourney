@@ -2,56 +2,54 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+## Artist's Cloud Security Journey
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+Hello everyone! Just wanted to do this challenge and sharpern up my existing skills and learn some new ones in order to be successful in cloud security. Most of these topics are a refresher and some of them brand new. Never done a challegne before like this so might as well. Hope I inspire someone to do something like this.
 
-## [✍️ Your Name]'s Cloud Journey
+At this time I am writing this I hold 9 certifications:
 
-[✍️ Introduce yourself]
+- Google IT Support
+- CompTIA Security+
+- Splunk Core Certified User
+- AWS Cloud Practitioner
+- AZ-900
+- SC-900
+- AZ-104
+- AI-900
+- AWS Certified Security - Specialty
 
-[✍️ Tell us why you started this challenge]
+And I have 1 year of experience as an associate consultant.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+- [LinkedIn](https://www.linkedin.com/in/athinat/)
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+## Networking :globe_with_meridians:
 
-## Stepping out the door
+- ☁️ 1 > [OSI & TCP/IP Model](Journey/001/Readme.md)
+- ☁️ 2 > [IP Addressing](Journey/002/Readme.md)
+- ☁️ 3 > [MAC Addresses](Journey/003/Readme.md)
+- ☁️ 4 > [Routing and Switching](Journey/004/Readme.md)
+- ☁️ 5 > [TCP/IP](Journey/005/Readme.md)
+- ☁️ 6 > [TCP and UDP](Journey/006/Readme.md)
+- ☁️ 7 > [DNS](Journey/007/Readme.md)
+- ☁️ 8 > [VPN tunneling](Journey/008/Readme.md)
+- ☁️ 9 > [TLS and SSL](Journey/009/Readme.md)
+- ☁️ 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
+- :question: 11 > [Questions](Journey/Questions_Networking/Readme.md)
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+## [Linux Bash](https://linuxupskillchallenge.org/)
 
-## Walking down the road
+- ☁️ 11 > [Get to know your server & Basic Navigation](Journey/011/Readme.md)
+- ☁️ 12 > [](Journey/012/Readme.md)
+- ☁️ 13 > [](Journey/013/Readme.md)
+- ☁️ 14 > [](Journey/014/Readme.md)
+- ☁️ 15 > [](Journey/015/Readme.md)
+- ☁️ 16 > [](Journey/016/Readme.md)
+- ☁️ 17 > [](Journey/017/Readme.md)
+- ☁️ 18 > [](Journey/018/Readme.md)
+- ☁️ 19 > [](Journey/019/Readme.md)
+- ☁️ 20 > [](Journey/020/Readme.md)
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
-
-## Crossing the bridge
+## Terraform
 
 - [ ] ☁️ 21 > [](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
@@ -64,7 +62,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
-## Into the bushy, thorny forest
+## Python
 
 - [ ] ☁️ 31 > [](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
@@ -90,7 +88,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
-## Winding through the canyons
+## [Microsoft Ninja - Azure Network Security](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101)
 
 - [ ] ☁️ 51 > [](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [](Journey/052/Readme.md)

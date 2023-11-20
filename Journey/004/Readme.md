@@ -1,52 +1,34 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](Journey/004/assets/switch_and_router.jpg)
 
-# New post title here
+# Table of contents
 
-## Introduction
+- [Routing and Switching](#routing-and-switching)
+  - [Routers](#routers)
+  - [Switches](#switches)
+  - [Examples](#examples)
+  
+# Routing and Switching
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Routing and switching are two fundamental processes in computer networking that enable seamless data transmission across networks. While both concepts share the common goal of directing traffic, they differ in their scope and approach.
 
-## Prerequisite
+## Routers
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Routers operate at the network layer of the OSI model, acting as the traffic directors of the internet. They connect different networks, including the internet, and make intelligent decisions about the best path to send data packets to their intended destinations. Routers maintain routing tables, which are like road maps for data packets, containing information about network topologies, paths to other networks, and network traffic conditions.
 
-## Use Case
+When a data packet arrives at a router, the router examines its destination address and consults its routing table to determine the most efficient path for the packet to reach its destination. This process ensures that data packets navigate through the vast network of interconnected networks efficiently, avoiding congestion and reaching their final destinations with minimal delay.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+## Switches
 
-## Cloud Research
+Switches operate at the data link layer of the OSI model, responsible for forwarding data frames within a single network segment. They connect multiple devices within a network, such as computers, printers, and servers, and allow them to communicate with each other. Switches maintain a MAC address table, containing the unique MAC addresses of connected devices. When a data frame arrives at a switch, it examines the destination MAC address and forwards the frame to the appropriate port connected to the destination device. This ensures that data frames reach the intended recipient without being sent unnecessarily through other networks or devices.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## Examples
 
-## Try yourself
+- Dynamic Host Configuration Protocol (DHCP): DHCP automatically assigns IP addresses and other network configuration settings to devices on a network, eliminating the need for manual configuration.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- Network Address Translation (NAT): NAT translates IP addresses between private and public networks, allowing multiple devices within a private network to share a single public IP address, enhancing security and privacy.
 
-### Step 1 — Summary of Step
+- Routing Protocols: Routing protocols, such as OSPF (Open Shortest Path First) and BGP (Border Gateway Protocol), enable routers to exchange routing information and dynamically update their routing tables, ensuring that data packets always take the most efficient path to their destinations.
 
-![Screenshot](https://via.placeholder.com/500x300)
+- OSPF: OSPF is an interior gateway protocol (IGP) used within an autonomous system (AS) to determine the shortest paths between networks. It utilizes a link-state routing algorithm, where routers share information about their local network topology, allowing them to build a comprehensive understanding of the network and calculate optimal paths.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+- BGP: BGP is an exterior gateway protocol (EGP) used to exchange routing information between different ASes. It plays a crucial role in connecting different networks across the internet, enabling data packets to traverse across different providers and reach their intended destinations seamlessly.
