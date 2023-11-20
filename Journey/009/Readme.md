@@ -1,4 +1,12 @@
-![placeholder image](Journey/006/assets/TCP_3.png)
+# Table of contents
+
+- [TLS and SSL](#tls-and-ssl)
+- [Secure Sockets Layer (SSL)](#secure-sockets-layer-ssl)
+- [Transport Layer Security (TLS)](#transport-layer-security-tls)
+- [Symmetric encryption](#symmetric-encryption)
+  - [Examples](#examples)
+- [Asymmetric encryption](#asymmetric-encryption)
+  - [Examples](#examples)
 
 # TLS and SSL
 

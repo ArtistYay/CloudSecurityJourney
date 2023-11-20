@@ -1,5 +1,12 @@
 ![placeholder image](Journey/004/assets/switch_and_router.jpg)
 
+# Table of contents
+
+- [Routing and Switching](#routing-and-switching)
+  - [Routers](#routers)
+  - [Switches](#switches)
+  - [Examples](#examples)
+  
 # Routing and Switching
 
 Routing and switching are two fundamental processes in computer networking that enable seamless data transmission across networks. While both concepts share the common goal of directing traffic, they differ in their scope and approach.

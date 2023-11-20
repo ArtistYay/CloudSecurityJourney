@@ -1,5 +1,15 @@
 ![placeholder image](Journey/002/assets/ip_addressing.jpg)
 
+# Table of contents
+
+- [IP Addressing](#ip-addressing)
+  - [IPV4](#ipv4)
+  - [IPV6](#ipv6)
+  - [Classful IP Addressing](#classful-ip-addressing)
+  - [Classless Addressing](#classless-addressing)
+  - [Classless Inter Domain Routing (CIDR)](#classless-inter-domain-routing-cidr)
+  - [Subnetting](#subnetting)
+  
 # IP Addressing
 
 Internet Protocol (IP) addressing is a system of assigning unique identifiers to devices on a network so that they can communicate with each other.

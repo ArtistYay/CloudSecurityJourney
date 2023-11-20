@@ -1,5 +1,12 @@
 ![placeholder image](Journey/006/assets/TCP_3.png)
 
+# Table of contents
+
+- [TCP and UDP](#tcp-and-udp)
+  - [TCP](#tcp)
+  - [UDP](#udp)
+  - [Common Ports](#common-ports)
+  
 # TCP and UDP
 
 TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two fundamental transport layer protocols used in computer networking. They play crucial roles in data transmission by providing different approaches to data exchange between network applications.

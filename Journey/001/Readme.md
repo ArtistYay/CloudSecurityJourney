@@ -1,5 +1,16 @@
 ![placeholder image](Journey/001/assets/OSI.png)
 
+# Table of Contents 
+
+- [OSI & TCP/IP Model](#osi--tcpip-model)
+  - [Physical Layer](#physical-layer)
+  - [Data Link Layer](#data-link-layer)
+  - [Network layer](#network-layer)
+  - [Transport Layer](#transport-layer)
+  - [Session Layer](#session-layer)
+  - [Presentation Layer](#presentation-layer)
+  - [Application Layer](#application-layer)
+  
 # OSI & TCP/IP Model 
 
 The OSI Model is a reference framework that explains the process of transmitting data between computers. It is divided into seven layers that work together. TCP/IP was designed and developed by the Department of Defense (DoD) in the 1960s and is based on standard protocols. It stands for Transmission Control Protocol/Internet Protocol. It contains four layers, unlike the seven layers in the OSI model.

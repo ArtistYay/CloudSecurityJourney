@@ -2,19 +2,25 @@
   <img src="banner.png">
 </p>
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
 ## Artist's Cloud Security Journey
 
-[✍️ Introduce yourself]
+Hello everyone! Just wanted to do this challenge and sharpern up my existing skills and learn some new ones in order to be successful in cloud security. Most of these topics are a refresher and some of them brand new. Never done a challegne before like this so might as well. Hope I inspire someone to do something like this.
 
-[✍️ Tell us why you started this challenge]
+At this time I am writing this I hold 9 certifications:
 
-[✍️ Tell us where you want to be at the end of the challenge]
+- Google IT Support
+- CompTIA Security+
+- Splunk Core Certified User
+- AWS Cloud Practitioner
+- AZ-900
+- SC-900
+- AZ-104
+- AI-900
+- AWS Certified Security - Specialty
 
-- [LinkedIn](https://www.linkedin.com/in/username)
+And I have 1 year of experience as an associate consultant.
+
+- [LinkedIn](https://www.linkedin.com/in/athinat/)
 
 ## Networking :globe_with_meridians:
 
@@ -30,20 +36,20 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - ☁️ 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
 - :question: 11 > [Questions](Journey/Questions_Networking/Readme.md)
 
-## Linux
+## [Linux Bash](https://linuxupskillchallenge.org/)
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- ☁️ 11 > [Get to know your server & Basic Navigation](Journey/011/Readme.md)
+- ☁️ 12 > [](Journey/012/Readme.md)
+- ☁️ 13 > [](Journey/013/Readme.md)
+- ☁️ 14 > [](Journey/014/Readme.md)
+- ☁️ 15 > [](Journey/015/Readme.md)
+- ☁️ 16 > [](Journey/016/Readme.md)
+- ☁️ 17 > [](Journey/017/Readme.md)
+- ☁️ 18 > [](Journey/018/Readme.md)
+- ☁️ 19 > [](Journey/019/Readme.md)
+- ☁️ 20 > [](Journey/020/Readme.md)
 
-## Crossing the bridge
+## Terraform
 
 - [ ] ☁️ 21 > [](Journey/021/Readme.md)
 - [ ] ☁️ 22 > [](Journey/022/Readme.md)
@@ -56,7 +62,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
-## Into the bushy, thorny forest
+## Python
 
 - [ ] ☁️ 31 > [](Journey/031/Readme.md)
 - [ ] ☁️ 32 > [](Journey/032/Readme.md)
@@ -82,7 +88,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 49 > [](Journey/049/Readme.md)
 - [ ] ☁️ 50 > [](Journey/050/Readme.md)
 
-## Winding through the canyons
+## [Microsoft Ninja - Azure Network Security](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101)
 
 - [ ] ☁️ 51 > [](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [](Journey/052/Readme.md)
