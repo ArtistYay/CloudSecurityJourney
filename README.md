@@ -34,7 +34,7 @@ And I have 1 year of experience as an associate consultant.
 - ☁️ 8 > [VPN tunneling](Journey/008/Readme.md)
 - ☁️ 9 > [TLS and SSL](Journey/009/Readme.md)
 - ☁️ 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
-- :question: 11 > [Questions](Journey/Questions/Readme.md)
+- :question: 11 > [Questions](https://github.com/ArtistYay/CloudSecurityJourney/blob/main/Journey/Questions/README.md)
 
 ## [Linux Bash](https://linuxupskillchallenge.org/)
 
