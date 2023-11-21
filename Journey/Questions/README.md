@@ -1,3 +1,5 @@
+## Networking
+
 ### *What is the difference between a MAC and IP address?*
 
 MAC is associated with a NIC (network interface card) and is a hardware address. IP is used for **routing** data packets in a network and is a logical address.
