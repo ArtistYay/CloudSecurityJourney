@@ -20,6 +20,7 @@ DNS stands for Domain Name System. It is a hierarchical and distributed naming s
 
 ![placeholder image2](../007/assets/nslookup.png)
 
+
 # Domain Types
 
 ## Root Domain
@@ -67,6 +68,7 @@ Also called the subdomain to the second level, indicates the type of server that
 - app.website.com
 
 ![placeholder image3](../007/assets/DN.png)
+
 
 # Authoritative DNS Server Vs Recursive DNS Resolver
 

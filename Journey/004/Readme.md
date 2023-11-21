@@ -1,5 +1,6 @@
 ![placeholder image](../004/assets/switch_and_router.jpg)
 
+
 # Table of contents
 
 - [Routing and Switching](#routing-and-switching)

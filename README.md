@@ -22,33 +22,35 @@ And I have 1 year of experience as an associate consultant.
 
 [LinkedIn](https://www.linkedin.com/in/athinat/)
 
-## Stepping out the door
+## [Networking :globe_with_meridians:](https://learntocloud.guide/docs/phase1/)
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
-## Walking down the road
+- ☁️ 1 > [OSI & TCP/IP Model](Journey/001/Readme.md)
+- ☁️ 2 > [IP Addressing](Journey/002/Readme.md)
+- ☁️ 3 > [MAC Addresses](Journey/003/Readme.md)
+- ☁️ 4 > [Routing and Switching](Journey/004/Readme.md)
+- ☁️ 5 > [TCP/IP](Journey/005/Readme.md)
+- ☁️ 6 > [TCP and UDP](Journey/006/Readme.md)
+- ☁️ 7 > [DNS](Journey/007/Readme.md)
+- ☁️ 8 > [VPN tunneling](Journey/008/Readme.md)
+- ☁️ 9 > [TLS and SSL](Journey/009/Readme.md)
+- ☁️ 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
+- :question: 11 > [Questions](Journey/Questions_Networking/Readme.md)
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+## [Linux Bash](https://linuxupskillchallenge.org/)
 
-## Crossing the bridge
+- ☁️ 11 > [Get to know your server & Basic Navigation](Journey/011/Readme.md)
+- ☁️ 12 > [](Journey/012/Readme.md)
+- ☁️ 13 > [](Journey/013/Readme.md)
+- ☁️ 14 > [](Journey/014/Readme.md)
+- ☁️ 15 > [](Journey/015/Readme.md)
+- ☁️ 16 > [](Journey/016/Readme.md)
+- ☁️ 17 > [](Journey/017/Readme.md)
+- ☁️ 18 > [](Journey/018/Readme.md)
+- ☁️ 19 > [](Journey/019/Readme.md)
+- ☁️ 20 > [](Journey/020/Readme.md)
+
+## [Terraform](https://youtu.be/SPcwo0Gq9T8?si=f17jpr2Xi8dgQNBJ)
 
 - ☁️ 21 > [Understand infrastructure as code (IaC) concepts](Journey/021/Readme.md)
 - ☁️ 22 > [Understand the purpose of Terraform (vs other IaC)](Journey/022/Readme.md)

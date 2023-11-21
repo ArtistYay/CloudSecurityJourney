@@ -1,4 +1,6 @@
+
 ![placeholder image](../002/assets/ip_addressing.jpg)
+
 
 # Table of contents
 
