@@ -1,4 +1,4 @@
-![placeholder image](Journey/007/assets/dns_work.png)
+![placeholder image](../007/assets/dns_work.png)
 
 # Table of contents
 
@@ -18,7 +18,7 @@
 
 DNS stands for Domain Name System. It is a hierarchical and distributed naming system for computers, services, or other resources. It translates domain names (www.example.com) to IP addresses (`192.0.2.44`), allowing users to access websites and other online resources by using easy-to-remember names instead of numerical IP addresses. The DNS system works like a phonebook for the internet. When a user types a domain name into a web browser, the browser sends a query to a DNS server. The DNS server then looks up the IP address associated with that domain name and returns it to the browser. The browser then uses the IP address to connect to the website or online resource.
 
-![placeholder image2](Journey/007/assets/nslookup.png)
+![placeholder image2](../007/assets/nslookup.png)
 
 # Domain Types
 
@@ -66,7 +66,7 @@ Also called the subdomain to the second level, indicates the type of server that
 - support.website.com
 - app.website.com
 
-![placeholder image3](Journey/007/assets/DN.png)
+![placeholder image3](../007/assets/DN.png)
 
 # Authoritative DNS Server Vs Recursive DNS Resolver
 

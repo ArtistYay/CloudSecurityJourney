@@ -1,4 +1,4 @@
-![placeholder image5](Journey/005/assets/OSI_TCP.png)
+![placeholder image5](../005/assests/OSI_TCP.png)
 
 # TCP/IP
 

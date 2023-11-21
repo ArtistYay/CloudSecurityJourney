@@ -1,4 +1,4 @@
-![placeholder image](Journey/006/assets/TCP_3.png)
+![placeholder image](../006/assets/TCP_3.png)
 
 # Table of contents
 

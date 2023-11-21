@@ -1,4 +1,4 @@
-![placeholder image](Journey/002/assets/ip_addressing.jpg)
+![placeholder image](../002/assets/ip_addressing.jpg)
 
 # Table of contents
 
