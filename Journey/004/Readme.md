@@ -1,4 +1,4 @@
-![placeholder image](Journey/004/assets/switch_and_router.jpg)
+![placeholder image](../004/assets/switch_and_router.jpg)
 
 # Table of contents
 

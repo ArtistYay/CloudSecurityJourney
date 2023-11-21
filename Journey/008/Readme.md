@@ -1,4 +1,4 @@
-![placeholder image](Journey/008/assets/vpn.jpg)
+![placeholder image](../008/assets/vpn.jpg)
 
 # What is a VPN?
 

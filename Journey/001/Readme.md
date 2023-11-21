@@ -1,4 +1,4 @@
-![placeholder image](Journey/001/assets/OSI.png)
+![placeholder image](../001/assets/OSI.png)
 
 # Table of Contents 
 
@@ -46,7 +46,7 @@ This layer is responsible for the actual physical connection between devices. It
 
 - **ping**: This command is used to test the connectivity between two devices by sending and receiving ICMP echo packets.
 
-![placeholder image2](Journey/001/assets/ping.png)
+![placeholder image2](../001/assets/ping.png)
 
 - **show interface**: This command displays information about the physical interfaces on a network device, such as their status, speed, and duplex mode.
 
@@ -98,7 +98,7 @@ The network layer is the third layer of the OSI model, and it is responsible for
 
 - **traceroute**: This command traces the path that a packet takes from a source device to a destination device.
 
-![placeholder image3](Journey/001/assets/tracert.png)
+![placeholder image3](../001/assets/tracert.png)
 
 - **show ip route**: This command displays the IP routing table on a network device, which is a table of IP addresses and their corresponding next-hop routers.
 
@@ -135,7 +135,7 @@ The transport layer is the fourth layer in the OSI model and is responsible for 
 
 - **netstat**: This command also displays information about session layer connections that are currently active on a device.
 
-![placeholder image4](Journey/001/assets/netstat.png)
+![placeholder image4](../001/assets/netstat.png)
 
 - **show ip nsf**: This command displays information about NetBIOS over TCP (NBT) connections that are currently active on a network device.
 

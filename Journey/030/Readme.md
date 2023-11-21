@@ -1,52 +1,13 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](Journey/030/assets/tf.jpg)
 
-# New post title here
+# [Terraform Beginner Bootcamp](https://app.exampro.co/student/catalog/category/hashicorp)
+ 
+During the boot camp, I demonstrated my ability to use Gitpod, GitHub, Terraform, and AWS to develop and deploy a cloud-based application.
 
-## Introduction
+I used Gitpod as my development environment, documenting my progress using a GitHub markdown readme file, opening issues, and creating branches whenever I made changes to the code. I used semantic versioning and tagging with Git to keep changes to my code organized, and the vscode extension Git Graph to get a visual layout of my branches.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I learned how to save AWS and Terraform cloud credentials as environment variables. Created bash scripts that installed Terraform and AWS CLI whenever I launched a workspace in Gitpod and added commands to a YAML file to let Gitpod know what to run when starting a workspace. I learned about the Terraform module structure and how to organize services based on their purpose. For example, create a module called "networking" to contain all of the resources related to VPC, Route53, etc.
 
-## Prerequisite
+[Project Code](https://github.com/ArtistYay/terraform-beginner-bootcamp-2023) 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[Documentation](https://github.com/ArtistYay/Terraform-Bootcamp-Documentation)

@@ -20,47 +20,46 @@ At this time I am writing this I hold 9 certifications:
 
 And I have 1 year of experience as an associate consultant.
 
-- [LinkedIn](https://www.linkedin.com/in/athinat/)
+[LinkedIn](https://www.linkedin.com/in/athinat/)
 
-## Networking :globe_with_meridians:
+## Stepping out the door
 
-- ☁️ 1 > [OSI & TCP/IP Model](Journey/001/Readme.md)
-- ☁️ 2 > [IP Addressing](Journey/002/Readme.md)
-- ☁️ 3 > [MAC Addresses](Journey/003/Readme.md)
-- ☁️ 4 > [Routing and Switching](Journey/004/Readme.md)
-- ☁️ 5 > [TCP/IP](Journey/005/Readme.md)
-- ☁️ 6 > [TCP and UDP](Journey/006/Readme.md)
-- ☁️ 7 > [DNS](Journey/007/Readme.md)
-- ☁️ 8 > [VPN tunneling](Journey/008/Readme.md)
-- ☁️ 9 > [TLS and SSL](Journey/009/Readme.md)
-- ☁️ 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
-- :question: 11 > [Questions](Journey/Questions_Networking/Readme.md)
+- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
-## [Linux Bash](https://linuxupskillchallenge.org/)
+## Walking down the road
 
-- ☁️ 11 > [Get to know your server & Basic Navigation](Journey/011/Readme.md)
-- ☁️ 12 > [](Journey/012/Readme.md)
-- ☁️ 13 > [](Journey/013/Readme.md)
-- ☁️ 14 > [](Journey/014/Readme.md)
-- ☁️ 15 > [](Journey/015/Readme.md)
-- ☁️ 16 > [](Journey/016/Readme.md)
-- ☁️ 17 > [](Journey/017/Readme.md)
-- ☁️ 18 > [](Journey/018/Readme.md)
-- ☁️ 19 > [](Journey/019/Readme.md)
-- ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 11 > [](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 14 > [](Journey/014/Readme.md)
+- [ ] ☁️ 15 > [](Journey/015/Readme.md)
+- [ ] ☁️ 16 > [](Journey/016/Readme.md)
+- [ ] ☁️ 17 > [](Journey/017/Readme.md)
+- [ ] ☁️ 18 > [](Journey/018/Readme.md)
+- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
-## Terraform
+## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
-- [ ] ☁️ 26 > [](Journey/026/Readme.md)
-- [ ] ☁️ 27 > [](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
-- [ ] ☁️ 29 > [](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- ☁️ 21 > [Understand infrastructure as code (IaC) concepts](Journey/021/Readme.md)
+- ☁️ 22 > [Understand the purpose of Terraform (vs other IaC)](Journey/022/Readme.md)
+- ☁️ 23 > [Understand Terraform basics](Journey/023/Readme.md)
+- ☁️ 24 > [Use Terraform outside of core workflow](Journey/024/Readme.md)
+- ☁️ 25 > [Interact with Terraform modules](Journey/025/Readme.md)
+- ☁️ 26 > [Use the core Terraform workflow](Journey/026/Readme.md)
+- ☁️ 27 > [Implement and maintain state](Journey/027/Readme.md)
+- ☁️ 28 > [Read, generate, and modify configuration](Journey/028/Readme.md)
+- ☁️ 29 > [Understand Terraform Cloud capabilities](Journey/029/Readme.md)
+- ☁️ 30 > [Terraform Beginner Bootcamp](Journey/030/Readme.md)
 
 ## Python
 
