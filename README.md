@@ -24,6 +24,7 @@ And I have 1 year of experience as an associate consultant.
 
 ## [Networking :globe_with_meridians:](https://learntocloud.guide/docs/phase1/)
 
+
 - ☁️ 1 > [OSI & TCP/IP Model](Journey/001/Readme.md)
 - ☁️ 2 > [IP Addressing](Journey/002/Readme.md)
 - ☁️ 3 > [MAC Addresses](Journey/003/Readme.md)
@@ -35,6 +36,7 @@ And I have 1 year of experience as an associate consultant.
 - ☁️ 9 > [TLS and SSL](Journey/009/Readme.md)
 - ☁️ 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
 - :question: 11 > [Questions](https://github.com/ArtistYay/CloudSecurityJourney/blob/main/Journey/Questions/README.md)
+
 
 ## [Linux Bash](https://linuxupskillchallenge.org/)
 

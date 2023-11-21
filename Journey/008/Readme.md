@@ -1,5 +1,6 @@
 ![placeholder image](../008/assets/vpn.jpg)
 
+
 # What is a VPN?
 
 A VPN, or Virtual Private Network, is a service that encrypts your internet connection and protects your online privacy and security. It creates a secure tunnel between your device and a VPN server, making it difficult for anyone to snoop on your data or track your online activity.

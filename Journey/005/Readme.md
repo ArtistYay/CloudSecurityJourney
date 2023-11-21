@@ -1,5 +1,6 @@
 ![placeholder image5](../005/assests/OSI_TCP.png)
 
+
 # TCP/IP
 
 TCP/IP stands for Transmission Control Protocol/Internet Protocol. It is a suite of communication protocols that are used to interconnect network devices on the internet. TCP/IP is the foundation of the internet and enables devices to communicate with each other using a common language.
