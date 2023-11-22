@@ -1,52 +1,39 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<div align="center">
+    <img src=".../021/assets/tools.jpg">
+</div>
 
-# New post title here
+# *Understand infrastructure as code (IaC) concepts*
 
-## Introduction
+## *What is IaC:grey_question:*
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Imagine you're building a house. Traditionally, you would need to manually lay each brick, one by one, until the house is complete. This process is time-consuming, error-prone, and difficult to scale if you want to build multiple houses.
 
-## Prerequisite
+Infrastructure as Code (IaC) is a similar concept, but instead of building houses, we're building IT infrastructure. With IaC, we treat infrastructure components like virtual machines, networks, and storage as code, just like you would write code for a software application. This means we can define the desired state of our infrastructure in a file, and then use tools to automatically create and manage that infrastructure.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+- Step 1: Write a configuration file that describes the desired state of your infrastructure, including the number of servers, their hardware specifications, and the software they should run.
 
-## Use Case
+- Step 2: Use an IaC tool to read the configuration file and automatically provision the infrastructure according to the specifications.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+- Step 3: The IaC tool will create the necessary servers, install the required software, and configure the network settings.
 
-## Cloud Research
+### *Advantages of IaC patterns*
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+- **Enhanced Consistency and Repeatability**
 
-## Try yourself
+- **Accelerated Provisioning and Deployment**
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- **Improved Collaboration and Version Control**
 
-### Step 1 — Summary of Step
+- **Reduced Operational Costs**
 
-![Screenshot](https://via.placeholder.com/500x300)
+- **Enhanced Compliance and Security**
 
-### Step 1 — Summary of Step
+- **Increased Agility and Adaptability**
 
-![Screenshot](https://via.placeholder.com/500x300)
+- **Improved Documentation and Auditability**
 
-### Step 3 — Summary of Step
+- **Enhanced Self-Service Capabilities**
 
-![Screenshot](https://via.placeholder.com/500x300)
+- **Facilitated Multi-Cloud Adoption**
 
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+- **Promotes Continuous Integration and Continuous Delivery (CI/CD)**
