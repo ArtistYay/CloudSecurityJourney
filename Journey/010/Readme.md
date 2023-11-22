@@ -1,5 +1,6 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<p align="center">
+  <img src="../010/assets/">
+</p>
 
 # Azure CDN and Blob Services
 

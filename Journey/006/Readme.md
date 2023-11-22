@@ -1,5 +1,6 @@
-![placeholder image](../006/assets/TCP_3.png)
-
+<p align="center">
+  <img src="../006/assets/TCP_3.png">
+</p>
 
 # Table of contents
 

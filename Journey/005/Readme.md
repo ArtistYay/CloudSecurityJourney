@@ -1,5 +1,6 @@
-![placeholder image5](../005/assests/OSI_TCP.png)
-
+<p align="center">
+  <img src="../005/assests/OSI_TCP.png">
+</p>
 
 # TCP/IP
 
