@@ -1,52 +1,21 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# *Understand Terraform basics*
 
-# New post title here
+**Declarative Language**: Terraform uses HashiCorp Configuration Language (HCL), a simple and easy-to-learn language that allows you to describe the desired state of your infrastructure. Terraform then takes care of figuring out how to create the resources needed to reach that desired state.
 
-## Introduction
+**Modules**: Terraform's module system allows you to organize and reuse infrastructure configurations. Modules are essentially self-contained packages of infrastructure code that can be included in other Terraform configurations. This modularity makes it easy to share and reuse infrastructure components across different projects and teams.
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+**State**: Stores information about the infrastructure resources it manages in a state file. This state file keeps track of the current state of your infrastructure and allows Terraform to make idempotent changes, meaning that applying the same configuration multiple times will not result in duplicate or inconsistent resource creation.
 
-## Prerequisite
+**Provider Plugins**: Uses provider plugins to interact with different cloud providers or infrastructure platforms. Each provider plugin provides an interface for creating, updating, and destroying resources on a specific platform.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+**Versioning**: Supports versioning of provider plugins, allowing you to specify which version of a provider plugin you want to use for a particular configuration. This ensures that your infrastructure is provisioned and managed using the desired version of the provider plugin.
 
-## Use Case
+## *Plugin-based architecture*
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+Plugin-based architecture is a software design pattern that allows for the addition of new functionalities to an application without modifying the core code. Plugins are essentially independent modules that provide specific features or capabilities and can be easily added, removed, or updated without affecting the main application.
 
-## Cloud Research
+To illustrate the concept, imagine you have a basic text editor application. This application provides essential text editing functions like cut, copy, paste, and save. Now, you want to add advanced features like spell checking, grammar checking, and translation. Instead of modifying the core code of the text editor, you can create separate plugins for each of these features.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## *How does Terraform find and fetches providers*
 
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+The `terraform init` command is the primary method for Terraform to find and fetch providers. It consults the root configuration directory to determine the required provider plugins based on the specified provider blocks. Searches the local plugin cache for the specified provider plugins and attempts to use them if they are present, If the required provider plugins are not found in the local cache, Terraform downloads them from the Terraform Registry. Installs the downloaded provider plugins in the appropriate plugin directory, making them available for use. Even creates a lock file, typically named `.terraform.lock.hcl`, which records the versions and hashes of the installed provider plugins. This lock file ensures that subsequent terraform init commands will use the same versions of the plugins, maintaining consistency and reproducibility.
