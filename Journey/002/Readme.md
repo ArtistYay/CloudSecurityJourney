@@ -1,6 +1,6 @@
-
-![placeholder image](../002/assets/ip_addressing.jpg)
-
+<p align="center">
+  <img src="../002/assets/ip_addressing.jpg">
+</p>
 
 # Table of contents
 
