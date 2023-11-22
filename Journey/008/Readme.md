@@ -1,5 +1,6 @@
-![placeholder image](../008/assets/vpn.jpg)
-
+<p align="center">
+  <img src="../008/assets/vpn.jpg">
+</p>
 
 # What is a VPN?
 

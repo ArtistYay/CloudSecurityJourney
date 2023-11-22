@@ -1,4 +1,6 @@
-![placeholder image](../003/assests/mac_address.jpg)
+<p align="center">
+  <img src="../003/assests/mac_address.jpg">
+</p>
 
 # MAC Addresses
 
@@ -14,4 +16,6 @@ A Media Access Control (MAC) address, also known as a hardware address or physic
 
 - MAC addresses can be spoofed. While MAC addresses are generally considered permanent and unique, it is possible for hackers to spoof or change their MAC addresses to disguise their identity and gain unauthorized access to a network.
 
-![placeholder image2](../003/assests/ipconfig.png)
+<p align="center">
+  <img src="../003/assests/ipconfig.png">
+</p>

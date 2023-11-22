@@ -1,5 +1,6 @@
-![placeholder image](../004/assets/switch_and_router.jpg)
-
+<p align="center">
+  <img src="../004/assets/switch_and_router.jpg">
+</p>
 
 # Table of contents
 
