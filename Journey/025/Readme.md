@@ -48,6 +48,18 @@ resource "aws_instance" "example" {
 
 ## *Describe variable scope within modules/child modules*
 
+Variable scope in Terraform refers to the visibility and accessibility of variables within different parts of your infrastructure configuration. 
+
+### *Variable scope in modules*
+
+Within a single Terraform module, variables have local scope. This means that variables are only visible and accessible within the module itself. They cannot be directly accessed or modified from outside the module. This helps to maintain the modularity and encapsulation of Terraform modules, preventing unintended modifications to variables that might affect the module's behavior.
+
+### *Variable scope in child modules*
+
+When a module calls another module, referred to as a child module, the child module does not have direct access to variables defined in the parent module. This is because the child module has its own local scope, and variables declared in the parent module are considered external to the child module.
+
+To pass variables from a parent module to a child module, you need to explicitly declare the variables as inputs in the child module's configuration and provide their values when calling the child module. This ensures that the child module has access to the necessary configuration information from the parent module.
+
 ## *Set module version*
 
 Specifying the version of a Terraform module ensures that you are using the desired release of the module and prevents unintended behavior or compatibility issues. You can use version constraints that allows you to define a range of acceptable versions for a module. For example, `~> 3.12.0` uses the latest version of the module that is greater than or equal to 3.12.0. You can also use a explicit version number for a module, `3.13.0`.
