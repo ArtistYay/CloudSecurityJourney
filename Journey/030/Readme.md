@@ -1,4 +1,4 @@
-![placeholder image](Journey/030/assets/tf.jpg)
+![placeholder image](../030/assets/tf.jpg)
 
 # [Terraform Beginner Bootcamp](https://app.exampro.co/student/catalog/category/hashicorp)
  
