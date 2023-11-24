@@ -4,7 +4,7 @@
 
 # Introduction
 
-The reason why I started with networking is because it is the basic building block one needs to be comfortable with in anything IT related. Networking knowledge is crucial in cloud security because it allows security professionals to identify and address vulnerabilities, implement proper security controls, protect sensitive data, detect and respond to threats, comply with regulations, design secure cloud architectures, automate security tasks, conduct forensic analysis, and ensure the overall security of cloud infrastructure, applications, and data.
+Networking forms the foundational knowledge base for any IT professional. Its fundamental concepts are essential for understanding and navigating the complexities of cloud security. Familiarity with networking principles empowers security experts to effectively identify and address vulnerabilities, implement robust security controls, safeguard sensitive data, detect and swiftly respond to emerging threats, adhere to regulatory requirements, design secure cloud architectures, streamline security tasks through automation, conduct thorough forensic investigations, and uphold the overall security posture of cloud infrastructure, applications, and data.
 
 # Table of Contents 
 
