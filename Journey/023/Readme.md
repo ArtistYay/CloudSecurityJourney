@@ -1,3 +1,9 @@
+# Table of contents
+
+- [*Understand Terraform basics*](#understand-terraform-basics)
+  - [*Plugin-based architecture*](#plugin-based-architecture)
+  - [*How does Terraform find and fetches providers*](#how-does-terraform-find-and-fetches-providers)
+  
 # *Understand Terraform basics*
 
 **Declarative Language**: Terraform uses HashiCorp Configuration Language (HCL), a simple and easy-to-learn language that allows you to describe the desired state of your infrastructure. Terraform then takes care of figuring out how to create the resources needed to reach that desired state.

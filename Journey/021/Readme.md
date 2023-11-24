@@ -2,6 +2,15 @@
     <img src=".../021/assets/tools.jpg">
 </div>
 
+# *Introduction*
+
+While I currently work primarily in the Azure environment and could have utilized Bicep for infrastructure as code (IaC) purposes, I intentionally chose to learn Terraform instead. This decision was driven by my desire to gain a deeper understanding of IaC concepts and principles that extend beyond specific cloud providers. By mastering Terraform, I can effectively manage infrastructure across multiple cloud platforms, ensuring that my skills and knowledge remain relevant and adaptable in the evolving cloud landscape.
+
+# Table of Contents 
+
+- [*Understand infrastructure as code (IaC) concepts*](#understand-infrastructure-as-code-iac-concepts)
+  - [*What is IaC:grey_question:*](#what-is-iacgrey_question)
+
 # *Understand infrastructure as code (IaC) concepts*
 
 ## *What is IaC:grey_question:*

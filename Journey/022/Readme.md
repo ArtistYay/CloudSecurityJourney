@@ -2,6 +2,13 @@
     <img src=".../022/assets/tf.png">
 </div>
 
+# Table of contents
+
+- [*Understand the purpose of Terraform (vs other IaC)*](#understand-the-purpose-of-terraform-vs-other-iac)
+  - [*Multi-cloud and provider-agnostic benefits*](#multi-cloud-and-provider-agnostic-benefits)
+  - [*The benefits of Terraform state*](#the-benefits-of-terraform-state)
+  - [*What is Idempotence:grey_question:*](#what-is-idempotencegrey_question)
+
 # *Understand the purpose of Terraform (vs other IaC)*
 
 Terraform is an open-source Infrastructure as Code (IaC) tool that allows you to define, provision, and manage infrastructure in a declarative language called HashiCorp Configuration Language (HCL). It can be used to provision infrastructure on a wide range of cloud providers, including Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and others. It also supports on-premises infrastructure and hybrid cloud deployments.
@@ -42,4 +49,4 @@ Here are some of the key benefits of Terraform state:
 
 ## *What is Idempotence:grey_question:*
 
- Idempotence is a property of operations that ensures that applying them multiple times has the same effect as applying them once. In simpler terms, idempotent operations produce the same result regardless of how many times they are executed. Let's say you have a remote control with a button to turn on the TV. When you press the button, the TV turns on. If you press the button again, the TV doesn't turn on again. It stays on. This is because the button is idempotent.
+Idempotence is a property of operations that ensures that applying them multiple times has the same effect as applying them once. In simpler terms, idempotent operations produce the same result regardless of how many times they are executed. Let's say you have a remote control with a button to turn on the TV. When you press the button, the TV turns on. If you press the button again, the TV doesn't turn on again. It stays on. This is because the button is idempotent.

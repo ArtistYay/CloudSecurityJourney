@@ -1,52 +1,96 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<p align="center">
+  <img src="../027/assets/remoteb.jpg">
+</p>
 
-# New post title here
+# Table of contents
 
-## Introduction
+- [Implement and maintain state](#implement-and-maintain-state)
+  - [*Describe default local backend*](#describe-default-local-backend)
+  - [*Describe state locking*](#describe-state-locking)
+  - [*Handle backend and cloud integration authentication methods*](#handle-backend-and-cloud-integration-authentication-methods)
+  - [*Differentiate remote state back end options*](#differentiate-remote-state-back-end-options)
+  - [*Manage resource drift and Terraform state*](#manage-resource-drift-and-terraform-state)
+  - [*Describe `backend` block and cloud integration in configuration*](#describe-backend-block-and-cloud-integration-in-configuration)
+  - [*Understand secret management in state files*](#understand-secret-management-in-state-files)
+  
+# Implement and maintain state
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+State is like a memory for Terraform. It helps Terraform keep track of the changes you make to your infrastructure. You can choose to store state in different places, like on your local computer or in the cloud. It's important to use Terraform commands to manage state, and not to change the state file directly. Regularly check state to make sure it's accurate. By managing state carefully, you can help Terraform manage your infrastructure effectively.
 
-## Prerequisite
+## *Describe default local backend*
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+The default local backend is the most basic and lightweight backend option available in Terraform. It stores Terraform's state file locally on the machine where Terraform is running. So in simple terms When you work with Terraform, it keeps track of the changes you make to your infrastructure in a file called `.tfstate`. The default local backend stores this state file on your local computer, just like a notebook.
 
-## Use Case
+This is a good option for small projects and learning Terraform, but it's not the best choice for larger projects or teams.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+<p align="center">
+  <img src="../027/assets/localb.png">
+</p>
 
-## Cloud Research
+## *Describe state locking*
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+State locking is like a door lock for Terraform's state file.
 
-## Try yourself
+When multiple people are working on the same infrastructure using Terraform, there's a risk of conflicts if they try to make changes at the same time. This is where state locking comes in.
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+State locking works by preventing two people from making changes to the state file at the same time. This ensures that only one person can make changes at a time, and that Terraform always has an accurate view of the infrastructure.
 
-### Step 1 — Summary of Step
+### *How does state locking work?*
 
-![Screenshot](https://via.placeholder.com/500x300)
+When someone runs a Terraform command that modifies the state file, Terraform first tries to acquire a lock on the state file. If the lock is available, Terraform will acquire it and make the changes to the state file. If the lock is not available, Terraform will wait until the lock is released before trying to acquire it again.
 
-### Step 1 — Summary of Step
+### When does Terraform lock the state file?
 
-![Screenshot](https://via.placeholder.com/500x300)
+Terraform locks the state file whenever it runs a command that modifies the state file. For example, the following commands lock the state file:
 
-### Step 3 — Summary of Step
+- `terraform apply`
+- `terraform destroy`
+- `terraform state mv`
 
-![Screenshot](https://via.placeholder.com/500x300)
+You can manually unlock the state file using the `terraform unlock` command.
 
-## ☁️ Cloud Outcome
+## *Handle backend and cloud integration authentication methods*
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+Terraform backends provide secure access to the state file, some common methods include:
 
-## Next Steps
+Access Keys
+IAM Roles
+Identity Provider Integration
 
-✍️ Describe what you think you think you want to do next.
+Terraform interacts with various cloud providers to manage infrastructure resources. Each cloud provider has its own authentication mechanism, typically involving access keys, API tokens, or federated credentials.
 
-## Social Proof
+## *Differentiate remote state back end options*
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+- Amazon S3
+- Terraform Cloud
+- Azure Blob Storage
+- Google Cloud Storage
+- HashiCorp Vault
+- Consul
+- Nomad
 
-[link](link)
+## *Manage resource drift and Terraform state*
+
+Resource drift occurs when the actual state of your infrastructure deviates from the configuration defined in Terraform. This can lead to inconsistencies, compliance issues, security vulnerabilities, troubleshooting challenges, and unexpected costs. To prevent resource drift, implement strict change management, infrastructure automation, continuous monitoring, regular state refresh (`terraform refresh`), and Terraform drift detection. Manage Terraform state by choosing an appropriate backend, integrating it into version control, utilizing state locking, regularly refreshing, monitoring for consistency, minimizing state file edits, and using Terraform commands for state management.
+
+## *Describe `backend` block and cloud integration in configuration*
+
+The backend block defines the location and type of storage for Terraform's state file. The state file contains the current state of your infrastructure resources, and Terraform uses this file to track changes, plan modifications, and apply changes to your infrastructure. The choice of backend depends on your specific requirements, such as durability, scalability, and access control.
+
+```Terraform
+terraform {
+  backend "remote" {
+    organization = "example_corp"
+
+    workspaces {
+      name = "my-app-prod"
+    }
+  }
+}
+```
+
+Cloud integration enables Terraform to interact with and manage resources on various cloud platforms, such as AWS, GCP, and Azure. Terraform provides providers for each cloud platform, allowing you to define and manage cloud resources using Terraform's declarative syntax. Cloud integration facilitates infrastructure automation, consistency, auditability, and security across cloud environments.
+
+## *Understand secret management in state files*
+
+Storing sensitive credentials directly in Terraform state files is risky due to exposure, version control integration, and accidental disclosure. Instead, use external secrets management solutions like AWS Secrets Manager, HashiCorp Vault, or Google Cloud Secret Manager to securely store and manage secrets. Reference secrets in configuration using data sources, limit access to secrets, minimize secret exposure, use Terraform interpolation, automate secret rotation, monitor secret usage, and educate developers on proper practices.

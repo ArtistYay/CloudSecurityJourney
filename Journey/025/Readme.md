@@ -1,3 +1,11 @@
+# Table of contents
+
+- [*Interact with Terraform modules*](#interact-with-terraform-modules)
+- [*Contrast and use different module source options including the public Terraform Module Registry*](#contrast-and-use-different-module-source-options-including-the-public-terraform-module-registry)
+- [*Interact with module inputs and outputs*](#interact-with-module-inputs-and-outputs)
+  - [*Describe variable scope within modules/child modules*](#describe-variable-scope-within-moduleschild-modules)
+  - [*Set module version*](#set-module-version)
+
 # *Interact with Terraform modules*
 
 Terraform modules provide a mechanism to package and reuse infrastructure configurations. They allow you to organize complex infrastructure setups into manageable components and share them with others. You can obtain modules from the Terraform Registry or Private Repositories.
@@ -47,6 +55,18 @@ resource "aws_instance" "example" {
 > The output variable needs to be defined before being called.
 
 ## *Describe variable scope within modules/child modules*
+
+Variable scope in Terraform refers to the visibility and accessibility of variables within different parts of your infrastructure configuration. 
+
+### *Variable scope in modules*
+
+Within a single Terraform module, variables have local scope. This means that variables are only visible and accessible within the module itself. They cannot be directly accessed or modified from outside the module. This helps to maintain the modularity and encapsulation of Terraform modules, preventing unintended modifications to variables that might affect the module's behavior.
+
+### *Variable scope in child modules*
+
+When a module calls another module, referred to as a child module, the child module does not have direct access to variables defined in the parent module. This is because the child module has its own local scope, and variables declared in the parent module are considered external to the child module.
+
+To pass variables from a parent module to a child module, you need to explicitly declare the variables as inputs in the child module's configuration and provide their values when calling the child module. This ensures that the child module has access to the necessary configuration information from the parent module.
 
 ## *Set module version*
 

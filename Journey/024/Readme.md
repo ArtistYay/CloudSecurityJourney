@@ -1,3 +1,11 @@
+# Table of contents
+
+- [*Use Terraform outside of core workflow*](#use-terraform-outside-of-core-workflow)
+  - [*Describe when to use `terraform import` to import existing infrastructure into your Terraform state*](#describe-when-to-use-terraform-import-to-import-existing-infrastructure-into-your-terraform-state)
+  - [*Use ```terraform state``` to view Terraform state*](#use-terraform-state-to-view-terraform-state)
+  - [*Customizing Terraform Behavior*](#customizing-terraform-behavior)
+  - [*Describe when to enable verbose logging and what the outcome/value is.*](#describe-when-to-enable-verbose-logging-and-what-the-outcomevalue-is)
+
 # *Use Terraform outside of core workflow*
 
 Terraform's core workflow is typically used to plan, apply, and destroy infrastructure resources. However, there are instances where you may need to use Terraform outside of this core workflow, such as importing existing infrastructure, manipulating the Terraform state file, or performing advanced configurations.
