@@ -20,36 +20,41 @@ At this time I am writing this I hold 9 certifications:
 
 And I have 1 year of experience as an associate consultant.
 
-[LinkedIn](https://www.linkedin.com/in/athinat/)
+<p align='left'>
+<a href="https://www.linkedin.com/in/athinat/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a
+</p>
+
+## Questions:question:
+
 
 ## [Networking :globe_with_meridians:](https://learntocloud.guide/docs/phase1/)
 
 
-- ☁️ 1 > [OSI & TCP/IP Model](Journey/001/Readme.md)
-- ☁️ 2 > [IP Addressing](Journey/002/Readme.md)
-- ☁️ 3 > [MAC Addresses](Journey/003/Readme.md)
-- ☁️ 4 > [Routing and Switching](Journey/004/Readme.md)
-- ☁️ 5 > [TCP/IP](Journey/005/Readme.md)
-- ☁️ 6 > [TCP and UDP](Journey/006/Readme.md)
-- ☁️ 7 > [DNS](Journey/007/Readme.md)
-- ☁️ 8 > [VPN tunneling](Journey/008/Readme.md)
-- ☁️ 9 > [TLS and SSL](Journey/009/Readme.md)
-- ☁️ 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
-- :question: 11 > [Questions](https://github.com/ArtistYay/CloudSecurityJourney/blob/main/Journey/Questions/README.md)
-
+- :globe_with_meridians: 1 > [OSI & TCP/IP Model](Journey/001/Readme.md)
+- :globe_with_meridians: 2 > [IP Addressing](Journey/002/Readme.md)
+- :globe_with_meridians: 3 > [MAC Addresses](Journey/003/Readme.md)
+- :globe_with_meridians: 4 > [Routing and Switching](Journey/004/Readme.md)
+- :globe_with_meridians: 5 > [TCP/IP](Journey/005/Readme.md)
+- :globe_with_meridians: 6 > [TCP and UDP](Journey/006/Readme.md)
+- :globe_with_meridians: 7 > [DNS](Journey/007/Readme.md)
+- :globe_with_meridians: 8 > [VPN tunneling](Journey/008/Readme.md)
+- :globe_with_meridians: 9 > [TLS and SSL](Journey/009/Readme.md)
+- :globe_with_meridians: 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
 
 ## [Linux Bash](https://linuxupskillchallenge.org/)
 
-- ☁️ 11 > [Get to know your server & Basic Navigation](Journey/011/Readme.md)
-- ☁️ 12 > [](Journey/012/Readme.md)
-- ☁️ 13 > [](Journey/013/Readme.md)
-- ☁️ 14 > [](Journey/014/Readme.md)
-- ☁️ 15 > [](Journey/015/Readme.md)
-- ☁️ 16 > [](Journey/016/Readme.md)
-- ☁️ 17 > [](Journey/017/Readme.md)
-- ☁️ 18 > [](Journey/018/Readme.md)
-- ☁️ 19 > [](Journey/019/Readme.md)
-- ☁️ 20 > [](Journey/020/Readme.md)
+- :penguin: 11 > [Get to know your server & Basic Navigation](Journey/011/Readme.md)
+- :penguin: 12 > [](Journey/012/Readme.md)
+- :penguin: 13 > [](Journey/013/Readme.md)
+- :penguin: 14 > [](Journey/014/Readme.md)
+- :penguin: 15 > [](Journey/015/Readme.md)
+- :penguin: 16 > [](Journey/016/Readme.md)
+- :penguin: 17 > [](Journey/017/Readme.md)
+- :penguin: 18 > [](Journey/018/Readme.md)
+- :penguin: 19 > [](Journey/019/Readme.md)
+- :penguin: 20 > [](Journey/020/Readme.md)
 
 ## [Terraform](https://youtu.be/SPcwo0Gq9T8?si=f17jpr2Xi8dgQNBJ)
 
@@ -62,20 +67,20 @@ And I have 1 year of experience as an associate consultant.
 - ☁️ 27 > [Implement and maintain state](Journey/027/Readme.md)
 - ☁️ 28 > [Read, generate, and modify configuration](Journey/028/Readme.md)
 - ☁️ 29 > [Understand Terraform Cloud capabilities](Journey/029/Readme.md)
-- ☁️ 30 > [Terraform Beginner Bootcamp](Journey/030/Readme.md)
+- ☁️ 30 > [Terraform Beginner Bootcamp - Project](Journey/030/Readme.md)
 
 ## Python
 
-- [ ] ☁️ 31 > [](Journey/031/Readme.md)
-- [ ] ☁️ 32 > [](Journey/032/Readme.md)
-- [ ] ☁️ 33 > [](Journey/033/Readme.md)
-- [ ] ☁️ 34 > [](Journey/034/Readme.md)
-- [ ] ☁️ 35 > [](Journey/035/Readme.md)
-- [ ] ☁️ 36 > [](Journey/036/Readme.md)
-- [ ] ☁️ 37 > [](Journey/037/Readme.md)
-- [ ] ☁️ 38 > [](Journey/038/Readme.md)
-- [ ] ☁️ 39 > [](Journey/039/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+- :snake: 31 > [](Journey/031/Readme.md)
+- :snake: 32 > [](Journey/032/Readme.md)
+- :snake: 33 > [](Journey/033/Readme.md)
+- :snake: 34 > [](Journey/034/Readme.md)
+- :snake: 35 > [](Journey/035/Readme.md)
+- :snake: 36 > [](Journey/036/Readme.md)
+- :snake: 37 > [](Journey/037/Readme.md)
+- :snake: 38 > [](Journey/038/Readme.md)
+- :snake: 39 > [](Journey/039/Readme.md)
+- :snake: 40 > [](Journey/040/Readme.md)
 
 ## Trekking the dunes
 
