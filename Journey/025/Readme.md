@@ -1,3 +1,11 @@
+# Table of contents
+
+- [*Interact with Terraform modules*](#interact-with-terraform-modules)
+- [*Contrast and use different module source options including the public Terraform Module Registry*](#contrast-and-use-different-module-source-options-including-the-public-terraform-module-registry)
+- [*Interact with module inputs and outputs*](#interact-with-module-inputs-and-outputs)
+  - [*Describe variable scope within modules/child modules*](#describe-variable-scope-within-moduleschild-modules)
+  - [*Set module version*](#set-module-version)
+
 # *Interact with Terraform modules*
 
 Terraform modules provide a mechanism to package and reuse infrastructure configurations. They allow you to organize complex infrastructure setups into manageable components and share them with others. You can obtain modules from the Terraform Registry or Private Repositories.
