@@ -2,22 +2,22 @@
   <img src="../006/assets/TCP_3.png">
 </p>
 
-# Table of contents
+# *Table of contents*
 
 - [TCP and UDP](#tcp-and-udp)
   - [TCP](#tcp)
   - [UDP](#udp)
   - [Common Ports](#common-ports)
   
-# TCP and UDP
+# *TCP and UDP*
 
 TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) are two fundamental transport layer protocols used in computer networking. They play crucial roles in data transmission by providing different approaches to data exchange between network applications.
 
-## TCP
+## *TCP*
 
 TCP is a connection-oriented protocol, meaning it establishes a connection between the sending and receiving applications before data transfer begins. This connection ensures reliable and ordered data transmission, guaranteeing that all data packets reach their destination in the correct sequence without corruption or loss. TCP employs a three-way handshake process to establish a connection before data transmission and uses acknowledgment (ACK) and negative acknowledgment (NAK) mechanisms to ensure data integrity.
 
-### TCP Handshake
+### *TCP Handshake*
 
 The TCP handshake, also known as the three-way handshake, is a process used to establish a connection between two devices over a TCP/IP network. It is a crucial step in ensuring reliable and secure data transmission between applications. The handshake involves the exchange of three segments between the client and the server.
 
@@ -33,11 +33,11 @@ Upon receiving the SYN segment, the server sends back a SYN-ACK segment to the c
 
 Finally, the client sends an ACK segment to the server, acknowledging the server's SYN-ACK segment. This ACK flag set to 1 completes the handshake, and the connection is established. Both devices can now begin exchanging data reliably.
 
-## UDP
+## *UDP*
 
 UDP, in contrast to TCP, is a connectionless protocol. It does not establish a connection before data transfer and sends data packets independently without guarantees of delivery or order. UDP is considered unreliable as it does not employ error detection or correction mechanisms, making it suitable for applications that prioritize speed over reliability, such as real-time multimedia streaming or gaming.
 
-## Common Ports
+## *Common Ports*
 
 | Protocol | Port   | Service |
 | ---------| -------| --------|

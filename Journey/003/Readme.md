@@ -2,7 +2,7 @@
   <img src="../003/assests/mac_address.jpg">
 </p>
 
-# MAC Addresses
+# *MAC Addresses*
 
 A Media Access Control (MAC) address, also known as a hardware address or physical address, is a unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth.
 

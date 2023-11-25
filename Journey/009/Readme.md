@@ -8,23 +8,23 @@
 - [Asymmetric encryption](#asymmetric-encryption)
   - [Examples](#examples)
 
-# TLS and SSL
+# *TLS and SSL*
 
 Secure Sockets Layer (SSL) and its successor, Transport Layer Security (TLS), are cryptographic protocols that safeguard online communication by encrypting data transmitted between a computer and a server. These protocols play a crucial role in protecting sensitive information, such as login credentials, financial data, and personal information, from interception and unauthorized access.
 
-# Secure Sockets Layer (SSL)
+# *Secure Sockets Layer (SSL)*
 
 Employs a combination of symmetric and asymmetric encryption techniques, along with digital certificates, to create a secure connection between a web browser and a server.
 
-# Transport Layer Security (TLS)
+# *Transport Layer Security (TLS)*
 
 TLS emerged as an enhanced iteration of SSL, addressing the vulnerabilities of its predecessor. TLS 1.0 marked the initial upgrade, followed by subsequent versions, with TLS 1.3 being the current standard. TLS offers a more robust and adaptable security framework, ensuring the confidentiality and integrity of data transmitted online.
 
-# Symmetric encryption
+# *Symmetric encryption*
 
 Symmetric encryption, also known as private-key encryption, employs a single key for both encryption and decryption. This key is shared between the client and the server, ensuring that only authorized parties can exchange data securely. Symmetric encryption is highly efficient, making it ideal for encrypting large amounts of data.
 
-## Examples
+## *Examples*
 
 - **AES (Advanced Encryption Standard)**: AES is the most widely used symmetric encryption algorithm today. It is a block cipher that uses a 128-bit, 192-bit, or 256-bit key to encrypt and decrypt data. AES is very fast and secure, and it is used in a variety of applications, including Wi-Fi security, file encryption, and VPNs.
 
@@ -32,11 +32,11 @@ Symmetric encryption, also known as private-key encryption, employs a single key
 
 - **Blowfish**: Blowfish is another popular symmetric encryption algorithm that is known for its speed and efficiency. Blowfish is a variable-key-length cipher, which means that it can use a key of any length from 32 to 448 bits. Blowfish is often used in applications where speed is important, such as file encryption and email security.
 
-# Asymmetric encryption
+# *Asymmetric encryption*
 
 Asymmetric encryption, also known as public-key encryption, utilizes a pair of keys: a public key and a private key. The public key is widely distributed, while the private key is kept confidential. Asymmetric encryption is used for secure key exchange, enabling the establishment of a shared symmetric key without transmitting it directly over the network.
 
-## Examples
+## *Examples*
 
 - **RSA (Rivest–Shamir–Adleman)**: RSA is one of the most widely used asymmetric encryption algorithms. It is based on the difficulty of factoring large prime numbers. RSA is used in a variety of applications, including digital signatures, secure file transfer, and VPNs.
 
