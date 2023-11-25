@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".../021/assets/tools.jpg">
+    <img src="../021/assets/tools.jpg">
 </div>
 
 # *Introduction*
