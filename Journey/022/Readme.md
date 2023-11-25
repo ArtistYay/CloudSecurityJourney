@@ -1,5 +1,5 @@
 <div align="center">
-    <img src=".../022/assets/tf.png">
+    <img src="../022/assets/tf.png">
 </div>
 
 # Table of contents
