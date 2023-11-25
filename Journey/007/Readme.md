@@ -2,7 +2,7 @@
   <img src="../007/assets/dns_work.png">
 </p>
 
-# Table of contents
+# *Table of contents*
 
 - [Domain Name Server (DNS)](#domain-name-server-dns)
 - [Domain Types](#domain-types)
@@ -16,7 +16,7 @@
   - [Recursive DNS Resolver](#recursive-dns-resolver)
 - [DNS record types](#dns-record-types)
 
-#  Domain Name Server (DNS)
+#  *Domain Name Server (DNS)*
 
 DNS stands for Domain Name System. It is a hierarchical and distributed naming system for computers, services, or other resources. It translates domain names (www.example.com) to IP addresses (`192.0.2.44`), allowing users to access websites and other online resources by using easy-to-remember names instead of numerical IP addresses. The DNS system works like a phonebook for the internet. When a user types a domain name into a web browser, the browser sends a query to a DNS server. The DNS server then looks up the IP address associated with that domain name and returns it to the browser. The browser then uses the IP address to connect to the website or online resource.
 
@@ -24,17 +24,17 @@ DNS stands for Domain Name System. It is a hierarchical and distributed naming s
   <img src="../007/assets/nslookup.png">
 </p>
 
-# Domain Types
+# *Domain Types*
 
-## Root Domain
+## *Root Domain*
 
 The root domain is represented by a period (.).
 
-## Top-Level Domains (TLDs)
+## *Top-Level Domains (TLDs)*
 
 Called an extension or domain ending, refers to the suffix and the last part of a web address to the right of the last dot after the primary domain name. 
 
-### Examples
+### *Examples*
 
 - .com
 - .org
@@ -43,11 +43,11 @@ Called an extension or domain ending, refers to the suffix and the last part of 
 - .net
 - .mil
 
-## Country-code TLDs (ccTLDs)
+## *Country-code TLDs (ccTLDs)*
 
 A two-letter domain extension that represents a specific country, autonomous territory, sovereign state or geographic location. 
 
-### Examples 
+### *Examples* 
 
 - .us
 - .fr
@@ -55,15 +55,15 @@ A two-letter domain extension that represents a specific country, autonomous ter
 - .au
 - .ca
 
-## Second-Level domains
+## *Second-Level domains*
 
 The domain title. For example, the Google in www.google.com is the second level domain.
 
-## Third-Level domain
+## *Third-Level domain*
 
 Also called the subdomain to the second level, indicates the type of server that the domain connects to when accessing website data.
 
-### Examples
+### *Examples*
 
 - shop.website.com
 - blog.website.com
@@ -74,9 +74,9 @@ Also called the subdomain to the second level, indicates the type of server that
   <img src="../007/assets/DN.png">
 </p>
 
-# Authoritative DNS Server Vs Recursive DNS Resolver
+# *Authoritative DNS Server Vs Recursive DNS Resolver*
 
-## Authoritative DNS Server
+## *Authoritative DNS Server*
 
 An authoritative DNS server is a type of DNS server that holds the definitive information about a specific domain name. It is responsible for providing accurate and up-to-date information about the domain name, including its IP addresses and other relevant records. Authoritative DNS servers are typically operated by the domain name registrar or the organization that owns the domain name.
 
@@ -84,7 +84,7 @@ When a DNS resolver sends a query for a domain name, the query is eventually rou
 
 Imagine the phone book company that publishes and distributes the phone books for a particular region. They maintain the most accurate and up-to-date information about phone numbers and addresses for their area.
 
-## Recursive DNS Resolver
+## *Recursive DNS Resolver*
 
 A recursive DNS resolver is a type of DNS server that is responsible for resolving DNS queries on behalf of other DNS servers or end-users. When a recursive DNS resolver receives a query for a domain name, it first checks its cache to see if it already knows the answer. If it does, it returns the cached information to the client. If it does not, it forwards the query to another DNS server, typically a root server, to find the answer.
 
@@ -92,7 +92,7 @@ The recursive DNS resolver continues to forward the query to other DNS servers u
 
 Think of a person using a phone book to find a phone number. They first check the phone book to see if they can find the number directly. If they don't, they might ask a friend or family member for the number. If still unsuccessful, they might call the operator for assistance. The operator, like a recursive DNS resolver, would consult various resources to find the correct phone number.
 
-# DNS record types
+# *DNS record types*
 
 - **A (Address) Record**: Maps a domain name to an IPv4 address.
 - **AAAA (Address) Record**: Maps a domain name to an IPv6 address.
