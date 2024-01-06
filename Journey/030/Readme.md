@@ -14,4 +14,4 @@ I learned how to save AWS and Terraform cloud credentials as environment variabl
 
 Earned my HashiCorp Certified: Terraform Associate (003) certification!
 
-![placeholder image](../030/assets/terraform.jpg)
+![placeholder image](../030/assets/terraform.png)
