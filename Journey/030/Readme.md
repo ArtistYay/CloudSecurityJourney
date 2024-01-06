@@ -11,3 +11,7 @@ I learned how to save AWS and Terraform cloud credentials as environment variabl
 [Project Code](https://github.com/ArtistYay/terraform-beginner-bootcamp-2023) 
 
 [Documentation](https://github.com/ArtistYay/Terraform-Bootcamp-Documentation)
+
+Earned my HashiCorp Certified: Terraform Associate (003) certification!
+
+![placeholder image](../030/assets/terraform.png)
