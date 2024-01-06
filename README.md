@@ -1,12 +1,12 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png">
-</p>
+</p> -->
 
 ## Artist's Cloud Security Journey
 
-Hello everyone! Just wanted to do this challenge and sharpern up my existing skills and learn some new ones in order to be successful in cloud security. Most of these topics are a refresher and some of them brand new. Never done a challegne before like this so might as well. Hope I inspire someone to do something like this.
+Excited to refresh + expand my cloud security skills and knowledge! New challenges and revisiting fundamentals, let's do this! Maybe inspire someone else too?
 
-At this time I am writing this I hold 9 certifications:
+At the time I am writing this I have 1 year of experience as an associate consultant and I hold 9 certifications:
 
 - Google IT Support
 - CompTIA Security+
@@ -18,15 +18,13 @@ At this time I am writing this I hold 9 certifications:
 - AI-900
 - AWS Certified Security - Specialty
 
-And I have 1 year of experience as an associate consultant.
-
-<p align='left'>
+<p align='middle'>
 <a href="https://www.linkedin.com/in/athinat/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a
 </p>
 
-## Questions:question:
+<!-- ## Questions :question: -->
 
 
 ## [Networking :globe_with_meridians:](https://learntocloud.guide/docs/phase1/)
@@ -41,7 +39,7 @@ And I have 1 year of experience as an associate consultant.
 - :globe_with_meridians: 7 > [DNS](Journey/007/Readme.md)
 - :globe_with_meridians: 8 > [VPN tunneling](Journey/008/Readme.md)
 - :globe_with_meridians: 9 > [TLS and SSL](Journey/009/Readme.md)
-- :globe_with_meridians: 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md)
+<!-- - :globe_with_meridians: 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md) 
 
 ## [Linux Bash](https://linuxupskillchallenge.org/)
 
@@ -54,7 +52,7 @@ And I have 1 year of experience as an associate consultant.
 - :penguin: 17 > [](Journey/017/Readme.md)
 - :penguin: 18 > [](Journey/018/Readme.md)
 - :penguin: 19 > [](Journey/019/Readme.md)
-- :penguin: 20 > [](Journey/020/Readme.md)
+- :penguin: 20 > [](Journey/020/Readme.md) -->
 
 ## [Terraform](https://youtu.be/SPcwo0Gq9T8?si=f17jpr2Xi8dgQNBJ)
 
@@ -69,7 +67,7 @@ And I have 1 year of experience as an associate consultant.
 - ☁️ 29 > [Understand Terraform Cloud capabilities](Journey/029/Readme.md)
 - ☁️ 30 > [Terraform Beginner Bootcamp - Project](Journey/030/Readme.md)
 
-## Python
+<!-- ## Python
 
 - :snake: 31 > [](Journey/031/Readme.md)
 - :snake: 32 > [](Journey/032/Readme.md)
@@ -158,4 +156,4 @@ And I have 1 year of experience as an associate consultant.
 - [ ] ☁️ 97 > [](Journey/097/Readme.md)
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
-- [ ] ☁️ 100 > [](Journey/100/Readme.md)
+- [ ] ☁️ 100 > [](Journey/100/Readme.md) -->
