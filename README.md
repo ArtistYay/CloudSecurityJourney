@@ -39,9 +39,9 @@ At the time I am writing this I have 1 year of experience as an associate consul
 - :globe_with_meridians: 7 > [DNS](Journey/007/Readme.md)
 - :globe_with_meridians: 8 > [VPN tunneling](Journey/008/Readme.md)
 - :globe_with_meridians: 9 > [TLS and SSL](Journey/009/Readme.md)
-<!-- - :globe_with_meridians: 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md) 
+- :globe_with_meridians: 10 > [Azure CDN and Blob Services - Project](Journey/010/Readme.md) 
 
-## [Linux Bash](https://linuxupskillchallenge.org/)
+<!--## [Linux Bash](https://linuxupskillchallenge.org/)
 
 - :penguin: 11 > [Get to know your server & Basic Navigation](Journey/011/Readme.md)
 - :penguin: 12 > [](Journey/012/Readme.md)
